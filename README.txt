@@ -5,6 +5,7 @@ Copyright:: © Keita Yamaguchi, 2008. All rights reserved.
 License::   Ruby License
 
 BenchmarkX is a Ruby library for extending standard benchmark with sexy graph!
+ちょっといじってみる
 
 == Usage
 
